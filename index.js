@@ -150,8 +150,8 @@ const buyfun = async (client) => {
 }
 
 (async () => {
-    const apisecret = "";
-    const apikey = "";
+    const apisecret = "MRANnrPyoSMRa3yUt6FNZoHEETpwJW4hOnxqIekmKz8=";
+    const apikey = "ykvOvt6b54BiftLwTq81MoEzL51NZOlKwX4p6MKAnts=";
     const client = new backpack_client_1.BackpackClient(apisecret, apikey);
     init(client);
 })()
